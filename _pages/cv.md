@@ -18,7 +18,6 @@ Work experience
 ======
 * Summer 2019: Intern at KPMG
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
 Publications
 ======
