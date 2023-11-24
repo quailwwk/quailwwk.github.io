@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Wenkai Wang"
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   bio              : "Deep learning-based structure prediction"
   location         : "Tianjin, China"
   employer         :
