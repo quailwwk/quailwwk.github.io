@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wenkai Wang/Personal Homepage"
+title                    : "Wenkai Wang"
 title_separator          : "-"
 name                     : &name "Wenkai Wang"
 description              : &description "a PhD student from Nankai University"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Wenkai Wang"
   avatar           : "profile.png"
-  bio              : "Deep learning-based structure prediction"
+  bio              : "a PhD student working on structural bioinformatics"
   location         : "Tianjin, China"
   supervisor         : "Jianyi Yang"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
