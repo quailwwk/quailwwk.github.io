@@ -8,4 +8,4 @@ date: 2023-05-13
 location: "Xuzhou, China"
 ---
 
-This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+[More information here](https://nccbb2023.cppdd.cn/web/index/presentation?id=69)
