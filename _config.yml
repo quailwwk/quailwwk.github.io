@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wenkai Wang / Personal Homepage"
+title                    : "Wenkai Wang/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Wenkai Wang"
 description              : &description "a PhD student from Nankai University"
