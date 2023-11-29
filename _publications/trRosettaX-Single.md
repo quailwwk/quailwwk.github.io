@@ -12,6 +12,6 @@ In this article, we introduce **trRosettaX-Single, a deep learning-based single-
 
 [[Download paper here](https://yanglab.qd.sdu.edu.cn/papers/Wang_NatureCS_2022.pdf)] [[Supporting Information](https://yanglab.qd.sdu.edu.cn/papers/Wang_NatureCS_2022_SI.pdf)] [[Web server](https://yanglab.qd.sdu.edu.cn/trRosetta/)]
 
-This work was featured by Nature CS and selected as [research highlights by Nature Methods](https://www.nature.com/articles/s41592-023-01795-1).
+This work was featured by **Nature CS** and selected as [**Research Highlights by Nature Methods**](https://www.nature.com/articles/s41592-023-01795-1).
 
-**Wenkai Wang**, Zhenling Peng, Jianyi Yang*, Single-sequence protein structure prediction using supervised transformer protein language models. _Nature Computational Science_, 2: 804-814 (2022).
+Reference: **Wenkai Wang**, Zhenling Peng, Jianyi Yang*, Single-sequence protein structure prediction using supervised transformer protein language models. _Nature Computational Science_, 2: 804-814 (2022).
