@@ -6,7 +6,7 @@ excerpt: 'In this article, we introduce trRosettaX-Single, a deep learning-based
 date: 2022-12-19
 venue: 'Nature Computational Science'
 paperurl: 'https://www.nature.com/articles/s43588-022-00373-3'
-citation: '**Wenkai Wang**, Zhenling Peng, Jianyi Yang*, Single-sequence protein structure prediction using supervised transformer protein language models. <I>Nature Computational Science</i>, 2: 804-814 (2022).'
+citation: '<b>Wenkai Wang</b>, Zhenling Peng, Jianyi Yang*, Single-sequence protein structure prediction using supervised transformer protein language models. <I>Nature Computational Science</i>, 2: 804-814 (2022).'
 ---
 In this article, we introduce trRosettaX-Single, a deep learning-based **single-sequence protein structure prediction method** with a supervised transformer protein language model. Benchmark tests show that our method **outperforms AlphaFold2 and RoseTTAFold on orphan proteins**. On human-designed proteins, trRosettaX-Single is competitive with AlphaFold2 and outperforms RoseTTAFold. trRosettaX-Single also generates much more accurate contact prediction than SPOT-Contact-LM on all independent test sets. Finally, as a demonstration, trRosettaX-Single is applied to protein design/hallucination and missense mutation analysis.
 
