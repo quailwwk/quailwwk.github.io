@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student from [Nankai University](https://www.nankai.edu.cn/), advised by [Prof. Jianyi Yang](https://yanglab.qd.sdu.edu.cn/). 
+I'm a PhD student from [Nankai University](https://www.nankai.edu.cn/), advised by [Prof. Jianyi Yang](https://yanglab.qd.sdu.edu.cn/people/jianyi/). 
 
 I'm working on improving the protein/RNA structure prediction using deep learning techniques.
 
