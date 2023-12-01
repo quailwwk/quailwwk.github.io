@@ -19,7 +19,7 @@ Work experience
 * Summer 2019: Intern at KPMG
   * Duties included: Tagging issues
 
-Publications
+Selected publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
