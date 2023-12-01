@@ -2,7 +2,7 @@
 title: "Improved protein structure prediction using a new multi‐scale network and homologous templates"
 collection: publications
 permalink: /publication/trRosettaX
-excerpt: 'In this work, <b>trRosettaX, an improved version of trRosetta for protein structure prediction</b> is presented. A preliminary version of trRosettaX is ranked as <b>one of the top server groups in CASP14's blind test</b>. Additional benchmark test on 161 targets from CAMEO shows that <b>trRosettaX outperforms the top groups in CAMEO</b>. '
+excerpt: 'In this work, <b>trRosettaX, an improved version of trRosetta for protein structure prediction</b> is presented. A preliminary version of trRosettaX is ranked as <b>one of the top server groups in CASP14 blind test</b>. Additional benchmark test on 161 targets from CAMEO shows that <b>trRosettaX outperforms the top groups in CAMEO</b>. '
 date: 2021-10-31
 venue: 'Advanced Science'
 paperurl: 'https://doi.org/10.1002/advs.202102592'
