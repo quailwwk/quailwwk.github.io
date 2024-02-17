@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Wenkai Wang's Homepage\n(under construction)"
 title_separator          : "-"
-name                     : &name "Wenkai Wang（王文恺）"
+name                     : &name "Wenkai Wang(王文恺)"
 description              : &description "a PhD student from Nankai University"
 url                      : https://quailwwk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
